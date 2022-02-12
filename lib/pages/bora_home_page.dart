@@ -9,6 +9,7 @@ class BoraHomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Bora Home Page'),
       ),
+      // ignore: prefer_const_constructors
       body: Center(
         child: const Text('hohohoho'),
       ),
